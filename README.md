@@ -14,7 +14,7 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
  <li><a href = "#MentalModels"> Mental Models </a></li>
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
  <li><a href = "#EconomicHistoryBooks"> Economic History Books </a><li>
- <LI><a href = "#Money"> Money </a></li>
+ <li><a href = "#Money"> Money </a></li>
 </ul>
 
 <h3 id = "LetterstoShareholders"> LETTERS TO SHAREHOLDERS  </h3>
@@ -71,6 +71,6 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
   <h3 id = "Money"> MONEY </h3>
   <ul>
   <li><a href = "https://www.amazon.ca/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=sr_1_1?crid=22O5L0JU90EZT&keywords=the+psychology+of+money&qid=1658512129&sprefix=the+psychology+of+money%2Caps%2C149&sr=8-1"> The Psychology of Money- Morgan House  </a></li>
-  <li> <a href = "https://www.amazon.ca/Ascent-Money-Financial-History-World/dp/0143116177/ref=sr_1_1?crid=WJNPRDDX9BHO&keywords=the+ascent+of+money&qid=1658512176&sprefix=the+ascent+of+mone%2Caps%2C185&sr=8-1"> The Ascent of Money- Nial Ferguson </a> <li>
+  <li> <a href = "https://www.amazon.ca/Ascent-Money-Financial-History-World/dp/0143116177/ref=sr_1_1?crid=WJNPRDDX9BHO&keywords=the+ascent+of+money&qid=1658512176&sprefix=the+ascent+of+mone%2Caps%2C185&sr=8-1"> The Ascent of Money- Nial Ferguson </a> </li>
   </ul>
   

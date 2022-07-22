@@ -19,7 +19,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
  <li><a href = "#EconomicHistoryBooks"> Economic History Books </a></li>
  <li><a href = "#Money"> Money </a></li>
- <li><a href = "#Documentaries_Films">Documentaries/ Films</a></li>
+ <li><a href = "#Documentaries_Films">Documentaries/Films</a></li>
  
 </ul>
 
@@ -87,7 +87,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
    <li><a href= "https://www.researchgate.net/publication/265909749_Can_Banks_Individually_Create_Money_Out_of_Nothing_-_The_Theories_and_the_Empirical_Evidence"> Can Banks Individually Create Money Out of Nothing?- Prof. Richard A.Werner</li></a>
   </ul>
   
-  <h3 class= "Documentaries_Films">Documentaries/ Films</h3>
+  <h3 id= "Documentaries_Films">Documentaries/Films</h3>
   <h6> Documentaries</h6>
   <ul>
   <li><a href = "https://www.youtube.com/watch?v=p5Ac7ap_MAY"> Princess of Yen: Central Banks and the Transformation of the Economy- Michael Oswald </a></li>

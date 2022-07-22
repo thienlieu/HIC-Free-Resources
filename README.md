@@ -118,6 +118,6 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <h6> Discounted Cash Flow- DCF </h6>
   <ul>
  <li><a  href= "https://www.youtube.com/watch?v=OwbiEjINcpA"> What is a DCF?- rareliquid</a></li>
- <li><a href="https://www.youtube.com/watch?v=2L1rViT6wgs"> Warren Buffett explains DCF</a></li>
+ <li><a href="https://www.youtube.com/watch?v=2L1rViT6wgs" target="_blank"> Warren Buffett explains DCF</a></li>
   </ul>
   

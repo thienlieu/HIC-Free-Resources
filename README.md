@@ -19,6 +19,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
  <li><a href = "#EconomicHistoryBooks"> Economic History Books </a></li>
  <li><a href = "#Money"> Money </a></li>
+ <li><a href = "#Documentaries_Films">Interesting Documentaries/ Films</a></li>
  
 </ul>
 
@@ -74,10 +75,23 @@ This repo is organized in no chronological order. Feel free to explore any topic
   </ul>
   
   <h3 id = "Money"> MONEY </h3>
+  <h6> Books: </h6>
   <ul>
   <li><a href = "https://www.amazon.ca/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=sr_1_1?crid=22O5L0JU90EZT&keywords=the+psychology+of+money&qid=1658512129&sprefix=the+psychology+of+money%2Caps%2C149&sr=8-1"> The Psychology of Money- Morgan House  </a></li>
   <li> <a href = "https://www.amazon.ca/Ascent-Money-Financial-History-World/dp/0143116177/ref=sr_1_1?crid=WJNPRDDX9BHO&keywords=the+ascent+of+money&qid=1658512176&sprefix=the+ascent+of+mone%2Caps%2C185&sr=8-1"> The Ascent of Money- Nial Ferguson </a> </li>
    <li> <a href = "https://www.amazon.ca/Pragmatic-Capitalism-Every-Investor-Finance-ebook/dp/B0B4V1KHVD/ref=sr_1_1?crid=1HWA48OD8LCUO&keywords=pragmatic+capitalism&qid=1658512952&sprefix=pragmatic+capitalism%2Caps%2C207&sr=8-1"> Pragmatic Capitalism- Cullen Roche </a> </li> 
-   <li> <a href="https://www.amazon.ca/Central-Banking-101-Joseph-Wang/dp/0999136747/ref=sr_1_1?crid=1514WDW0LFJZB&keywords=central+banking+101&qid=1658513048&sprefix=central+banking+10%2Caps%2C155&sr=8-1"> Central Banking 101- Joseph J Wang></a></li>
+   <li> <a href="https://www.amazon.ca/Central-Banking-101-Joseph-Wang/dp/0999136747/ref=sr_1_1?crid=1514WDW0LFJZB&keywords=central+banking+101&qid=1658513048&sprefix=central+banking+10%2Caps%2C155&sr=8-1"> Central Banking 101- Joseph J Wang</a></li>
   </ul>
+  <h6> Others: </h6>
+  <ul>
+   <li><a href= "https://www.researchgate.net/publication/265909749_Can_Banks_Individually_Create_Money_Out_of_Nothing_-_The_Theories_and_the_Empirical_Evidence"> Can Banks Individually Create Money Out of Nothing?- Prof. Richard A.Werner</li></a>
+  </ul>
+  
+  <h3 class= "Documentaries_Films"> Interesting Documentaries/ Films</h3>
+  <h6> Documentaries</h6>
+  <ul>
+  <li><a href = "https://www.youtube.com/watch?v=p5Ac7ap_MAY"> Princess of Yen: Central Banks and the Transformation of the Economy- Michael Oswald </a></li>
+   <li> <a href= "https://www.rottentomatoes.com/m/inside_job_2010">Inside Job- Charles Ferguson</a></li>
+  </ul>
+  <h6> Films </h6>
   

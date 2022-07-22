@@ -126,4 +126,5 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <h6> Available on Apple Podcasts: </h6>
   <ul> 
   <li><a href="https://podcasts.apple.com/ca/podcast/masters-in-business/id730188152">Bloomberg's Master in Business- hosted by Barry Ritholtz </a></li>
+ <p> Features interesting guests to discuss ideas around finance, economics, and business. </p>
   </ul>

@@ -20,6 +20,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <li><a href = "#EconomicHistoryBooks"> Economic History Books </a></li>
  <li><a href = "#Money"> Money </a></li>
  <li><a href = "#Documentaries_Films">Documentaries/Films</a></li>
+ <li><a href="StocksValuationFramework">Stocks Valuation Framework </a></li>
  
 </ul>
 
@@ -112,4 +113,10 @@ This repo is organized in no chronological order. Feel free to explore any topic
    <li> <a href= "https://www.rottentomatoes.com/m/inside_job_2010">Inside Job- Charles Ferguson</a></li>
   </ul>
   <h6> Films </h6>
+  
+  <h3 id="StocksValuationFramework"> Stocks Valuation Framework </h3>
+  <h6> Discounted Cash Flow- DCF </h6>
+  <ul>
+ <li><a  href= "https://www.youtube.com/watch?v=OwbiEjINcpA"> What is a DCF?- rareliquid</a></li>
+  </ul>
   

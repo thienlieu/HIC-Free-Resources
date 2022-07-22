@@ -28,5 +28,14 @@ Investment is a broad topic that includes many subjects to study. This repo is d
  <li><a href = "https://www.amazon.ca/Book-Value-Fine-Investing-Wisely/dp/0231175426/ref=sr_1_1?crid=3HIDBVUIBJ3CN&keywords=Book+of+Value%3A+The+Fine+Art+of+Investing+Wisely&qid=1658286913&s=books&sprefix=book+of+value+the+fine+art+of+investing+wisely%2Cstripbooks%2C207&sr=1-1">A Book of Value: The Fine Art of Investing Wisely- Anurag Sharma</a></li>
 </ul>
 
+## RISK MANAGEMENT
+<ul>
+ <li><a href = "https://www.amazon.ca/Zurich-Axioms-Harriman-Definitive-generations/dp/0857198726/ref=sr_1_1?crid=1Q5TOE10PRRXD&keywords=the+zurich+axioms&qid=1657911610&sprefix=the+zurich+axiom%2Caps%2C114&sr=8-1">The Zurich Axioms- Max Gunter </a> </li>
+</ul>
+
+## MENTAL MODELS
+
+
+## CRYPTO- WEB 3 RESOURCES 
   
   

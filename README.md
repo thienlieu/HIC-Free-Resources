@@ -126,5 +126,9 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <h6> Available on Apple Podcasts: </h6>
   <ul> 
   <li><a href="https://podcasts.apple.com/ca/podcast/masters-in-business/id730188152">Bloomberg's Master in Business- hosted by Barry Ritholtz </a></li>
+ <p> Frequency: <b> Weekly </b></p>
  <p> Features interesting guests to discuss ideas around finance, economics, and business. </p>
+ <li><a href="https://podcasts.apple.com/us/podcast/planet-money/id290783428"> Planet Money NPR </a></li>
+ <p> Frequency: <b> Every Monday, Wednesday, Friday </b> </p>
+ <p> Provides a simplified view of complex macro-economic and finance ideas for beginners </p>
   </ul>

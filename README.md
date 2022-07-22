@@ -74,6 +74,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <li><a href="https://future.com/dao-canon/">DAOs a Canon- a16z</a> </li>
   <li><a href="https://future.com/nft-canon/">NFT Canon- a16z </a> </li>
   <li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/"> Crypto Canon- a16z</a> </li>
+  <li><a href="https://twitter.com/MishaDaVinci/status/1520758283073515520"> 22 videos to change how you think about Blockchain as a whole - @MishaDaVinci on Twitter &#129525; </a></li>
  </ul>
   
   <h3 id ="EconomicHistoryBooks"> Economic History Books </h3>

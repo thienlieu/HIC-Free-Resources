@@ -9,7 +9,7 @@ Investment is a broad topic that includes many subjects to study. This repo is d
  <li><a href = "#LetterstoShareholders"> Letters to Shareholders </a></li>
  <li><a href = "#ValueInvesting"> Value Investing</a></li>
  <li><a href = "#RiskManagement"> Risk Management </a></li>
- <li><a href = "#MentalModels"> MentalModels </a></li>
+ <li><a href = "#MentalModels"> Mental Models </a></li>
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
 </ul>
 

@@ -16,17 +16,17 @@ Investment is a broad topic that includes many subjects to study. This repo is d
   Curated for this specific investment strategy of picking stocks that appear to be worth less than their intrinsic values.
   
   #### Class notes that are taught by famous and credited investors/ professor:
- <ol>
+ <ul>
   <li><a href = "https://focusedcompounding.com/wp-content/uploads/2018/03/Joel-Greenblatt-Class.pdf"> Joel Greenblatt Class Notes- Columbia University</a></li>
   <li><a href = "http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf">Bruce Greenwald Class Notes- Columbia Universityl</a></li>
-</ol>
- #### Books:
- <ol>
+</ul>
+  #### Books:
+ <ul>
   <li><a href = "https://www.amazon.ca/Dhandho-Investor-Low-Risk-Paperback-Investing/dp/B07RY75NGR/ref=sr_1_2?crid=JKPR8XVRHWDS&keywords=dhando+investor&qid=1658285179&sprefix=dhando+investo%2Caps%2C134&sr=8-2"> The Dhando Investor- Monish Pabrai</a></li>
   <li><a href = "https://www.amazon.ca/Intelligent-Investor-Definitive-Value-Investing/dp/0060555661/ref=sr_1_4?crid=16CE0TJBBU5MR&keywords=the+intelligent+investor&qid=1658285710&s=books&sprefix=the+intelli%2Cstripbooks%2C139&sr=1-4">The Intelligent Investor- Benjamin Graham</a></li>
  <li><a href = "https://www.amazon.ca/Value-Investing-Graham-Buffett-Beyond/dp/0470116730/ref=sr_1_2?crid=26WJ80UT26Y0B&keywords=value+investing+bruce&qid=1658286839&s=books&sprefix=value+investing+bruce%2Cstripbooks%2C150&sr=1-2">Value Investing- Bruce Greenwald</a></li>
  <li><a href = "https://www.amazon.ca/Book-Value-Fine-Investing-Wisely/dp/0231175426/ref=sr_1_1?crid=3HIDBVUIBJ3CN&keywords=Book+of+Value%3A+The+Fine+Art+of+Investing+Wisely&qid=1658286913&s=books&sprefix=book+of+value+the+fine+art+of+investing+wisely%2Cstripbooks%2C207&sr=1-1">A Book of Value: The Fine Art of Investing Wisely- Anurag Sharma</a></li>
-</ol>
+</ul>
 
   
   

@@ -50,6 +50,11 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <li><a href = "https://focusedcompounding.com/wp-content/uploads/2018/03/Joel-Greenblatt-Class.pdf"> Joel Greenblatt Class Notes- Columbia University</a></li>
   <li><a href = "http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf">Bruce Greenwald Class Notes- Columbia University</a></li>
 </ul>
+<h6> Others:</h6>
+<ul>
+ <li> <a href= "https://10kdiver.com/twitter-threads/"> Compilation of bite-sized info threads that teach people the fundamental principles of investing and finance- @10kdiver on Twitter &#129525;</a></li>
+ 
+ </ul>
 
 <h3 id="RiskManagement"> RISK MANAGEMENT </h3>
 <h6> Books</h6>
@@ -75,6 +80,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <li><a href="https://future.com/nft-canon/">NFT Canon- a16z </a> </li>
   <li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/"> Crypto Canon- a16z</a> </li>
   <li><a href="https://twitter.com/MishaDaVinci/status/1520758283073515520"> 22 videos to change how you think about Blockchain as a whole - @MishaDaVinci on Twitter &#129525; </a></li>
+  <li><a href= "https://twitter.com/MishaDaVinci/status/1515673102566318082"> 50+ terms for Web 3 lingo- @MishaDaVinci on Twitter &#129525;</a></li>
  </ul>
   
   <h3 id ="EconomicHistoryBooks"> Economic History Books </h3>

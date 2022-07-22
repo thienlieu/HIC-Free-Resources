@@ -42,9 +42,9 @@ Investment is a broad topic that includes many subjects to study. This repo is d
 
 ## CRYPTO- WEB 3 RESOURCES 
  <ul>
-  <li><a href="https://future.com/dao-canon/"> <a>DAOs a Canon- a16z </li>
-  <li><a href="https://future.com/nft-canon/"> <a> NFT Canon- a16z </li>
-  <li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/"> <a>Crypto Canon- a16z </li>
+  <li><a href="https://future.com/dao-canon/">DAOs a Canon- a16z</a> </li>
+  <li><a href="https://future.com/nft-canon/">NFT Canon- a16z </a> </li>
+  <li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/"> Crypto Canon- a16z</a> </li>
  </ul>
   
   

@@ -13,6 +13,8 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
  <li><a href = "#RiskManagement"> Risk Management </a></li>
  <li><a href = "#MentalModels"> Mental Models </a></li>
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
+ <li><a href = "#EconomicHistoryBooks"> Economic History Books </a><li>
+ <LI><a href = "Money"> Money </a></li>
 </ul>
 
 <h3 id = "LetterstoShareholders"> LETTERS TO SHAREHOLDERS  </h3>
@@ -36,6 +38,7 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
  <ul>
   <li><a href = "https://www.amazon.ca/Dhandho-Investor-Low-Risk-Paperback-Investing/dp/B07RY75NGR/ref=sr_1_2?crid=JKPR8XVRHWDS&keywords=dhando+investor&qid=1658285179&sprefix=dhando+investo%2Caps%2C134&sr=8-2"> The Dhando Investor- Monish Pabrai</a></li>
   <li><a href = "https://www.amazon.ca/Intelligent-Investor-Definitive-Value-Investing/dp/0060555661/ref=sr_1_4?crid=16CE0TJBBU5MR&keywords=the+intelligent+investor&qid=1658285710&s=books&sprefix=the+intelli%2Cstripbooks%2C139&sr=1-4">The Intelligent Investor- Benjamin Graham</a></li>
+ <li> <a href = "https://www.amazon.ca/Security-Analysis-Foreword-Warren-Buffett/dp/0071592539/ref=sr_1_1?crid=L28BRVIB7LBY&keywords=security+analysis&qid=1658512077&sprefix=security+analysi%2Caps%2C135&sr=8-1"> Security Analysis- Benjamin Graham </a></li>
  <li><a href = "https://www.amazon.ca/Value-Investing-Graham-Buffett-Beyond/dp/0470116730/ref=sr_1_2?crid=26WJ80UT26Y0B&keywords=value+investing+bruce&qid=1658286839&s=books&sprefix=value+investing+bruce%2Cstripbooks%2C150&sr=1-2">Value Investing- Bruce Greenwald</a></li>
  <li><a href = "https://www.amazon.ca/Book-Value-Fine-Investing-Wisely/dp/0231175426/ref=sr_1_1?crid=3HIDBVUIBJ3CN&keywords=Book+of+Value%3A+The+Fine+Art+of+Investing+Wisely&qid=1658286913&s=books&sprefix=book+of+value+the+fine+art+of+investing+wisely%2Cstripbooks%2C207&sr=1-1">A Book of Value: The Fine Art of Investing Wisely- Anurag Sharma</a></li>
 </ul>
@@ -59,4 +62,15 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
   <li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/"> Crypto Canon- a16z</a> </li>
  </ul>
   
+  <h3 id ="EconomicHistoryBooks"> Economic History Books </h3>
+  <ul>
+   <li><a href = "https://www.amazon.ca/Why-Nations-Fail-Origins-Prosperity/dp/0307719227/ref=sr_1_1?crid=1ZPLJKTH5MV1F&keywords=why+nations+fail&qid=1658512103&sprefix=why+nations+fail%2Caps%2C121&sr=8-1"> Why Nations Fail- Daron Acemoglu and James A. Robinson</a></li>
+   <li><a href = "https://www.amazon.ca/Richest-Man-Babylon-Magic-Story/dp/1939438632/ref=sr_1_1?crid=1XDKP02J43PZF&keywords=the+richest+man+in+babylon&qid=1658512116&sprefix=the+richest+man+%2Caps%2C213&sr=8-1"> The Richest Man in Babylon- George S.Clason  </a></li>
+  </ul>
+  
+  <h3 id = "Money"> MONEY </h3>
+  <ul>
+  <li><a href = "https://www.amazon.ca/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=sr_1_1?crid=22O5L0JU90EZT&keywords=the+psychology+of+money&qid=1658512129&sprefix=the+psychology+of+money%2Caps%2C149&sr=8-1"> The Psychology of Money- Morgan House  </a></li>
+  <li> <a href = "https://www.amazon.ca/Ascent-Money-Financial-History-World/dp/0143116177/ref=sr_1_1?crid=WJNPRDDX9BHO&keywords=the+ascent+of+money&qid=1658512176&sprefix=the+ascent+of+mone%2Caps%2C185&sr=8-1"> The Ascent of Money- Nial Ferguson </a> <li>
+  </ul>
   

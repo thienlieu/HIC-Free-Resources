@@ -3,7 +3,8 @@
 <h3> INTRODUCTION </h3>
 This is an aggregated list of Investment resources I've compiled.
 Investment is a broad topic that includes many subjects to study. This repo is dedicated primarily to the Stock Market and Crypto Market in great length. 
-Many of the mentioned books can be found for free as PDF Format via <a href="https://z-lib.org/">Z-Library </a>
+<br>
+Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> via <a href="https://z-lib.org/">Z-Library </a>.
 
 <h4> TABLE OF CONTENTS </h4>
 <ul>

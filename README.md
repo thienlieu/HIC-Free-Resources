@@ -13,6 +13,8 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
  <li><a href = "#RiskManagement"> Risk Management </a></li>
  <li><a href = "#MentalModels"> Mental Models </a></li>
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
+ <li><a href = "#EconomicHistoryBooks"> Economic History Books </a></li>
+ <li><a href = "#Money"> Money </a></li>
  
 </ul>
 

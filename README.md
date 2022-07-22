@@ -6,7 +6,7 @@ Investment is a broad topic that includes many subjects to study. This repo is d
 
 <h4> TABLE OF CONTENTS </h4>
 <ul>
- <li href= "#LTS"> Letter to Shareholders  </li>
+ <li><a href = "#LTS"> Letter to Shareholders </a>  </li>
 </ul>
 
 <h3 id = "LTS"> LETTERS TO SHAREHOLDERS  </h3>

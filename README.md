@@ -18,7 +18,7 @@ Investment is a broad topic that includes many subjects to study. This repo is d
   #### Class notes that are taught by famous and credited investors/ professor:
  <ul>
   <li><a href = "https://focusedcompounding.com/wp-content/uploads/2018/03/Joel-Greenblatt-Class.pdf"> Joel Greenblatt Class Notes- Columbia University</a></li>
-  <li><a href = "http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf">Bruce Greenwald Class Notes- Columbia Universityl</a></li>
+  <li><a href = "http://csinvesting.org/wp-content/uploads/2012/06/greenwald-vi-process-foundation_final.pdf">Bruce Greenwald Class Notes- Columbia University</a></li>
 </ul>
   #### Books:
  <ul>
@@ -34,8 +34,17 @@ Investment is a broad topic that includes many subjects to study. This repo is d
 </ul>
 
 ## MENTAL MODELS
-
+<ul>
+ <li><a href ="https://www.amazon.ca/Poor-Charlies-Almanack-Expanded-Hardcover/dp/1578645018/ref=sr_1_1?crid=2VTK1TVR5TJ1W&keywords=Poor+Charlie%27s+Almanack&qid=1658285222&sprefix=poor+charlie%27s+almanack%2Caps%2C130&sr=8-1">Poor Charlie's Almanack - Peter D. Kaufman <a> </li>
+ <li><a href ="https://www.amazon.ca/most-important-thing-Howard-Marks/dp/9353022797/ref=sr_1_1?crid=1S9ESARWQTB4K&keywords=the+most+important+thing&qid=1658287118&s=books&sprefix=the+most+imp%2Cstripbooks%2C133&sr=1-1">The most important thing- Howard Marks <a> </li>
+ <li><a href ="https://fs.blog/tgmm/">The Great Mental Models ( 3 volumes)- Farnam Street <a> </li>
+</ul>
 
 ## CRYPTO- WEB 3 RESOURCES 
+ <ul>
+  <li><a href="https://future.com/dao-canon/"> <a>DAOs a Canon- a16z </li>
+  <li><a href="https://future.com/nft-canon/"> <a> NFT Canon- a16z </li>
+  <li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/"> <a>Crypto Canon- a16z </li>
+ </ul>
   
   

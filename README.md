@@ -4,7 +4,12 @@
 This is an aggregated list of free Investment resources I've compiled.
 Investment is a broad topic that includes many subjects to study. This repo is dedicated primarily to the Stock Market and Crypto Market in great length. 
 
-<h3> LETTERS TO SHAREHOLDERS  </h3>
+<h4> TABLE OF CONTENTS </h4>
+<ul>
+ <li href= "#LTS"> Letter to Shareholders  </li>
+</ul>
+
+<h3 id = "LTS"> LETTERS TO SHAREHOLDERS  </h3>
  These letters are underrated; yet it allows us as investors to tap into the great mind of successful world-renowned investors with great track record. Many complex topics are made simple through the curated selection of words, which will enhance your understanding of markets to a greater degree and help to justify your investment decisions.
 
 <ul>

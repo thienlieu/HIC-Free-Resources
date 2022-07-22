@@ -14,7 +14,7 @@ Many of the <b>mentioned books</b> can be found for free as <b>PDF Format</b> vi
  <li><a href = "#MentalModels"> Mental Models </a></li>
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
  <li><a href = "#EconomicHistoryBooks"> Economic History Books </a><li>
- <LI><a href = "Money"> Money </a></li>
+ <LI><a href = "#Money"> Money </a></li>
 </ul>
 
 <h3 id = "LetterstoShareholders"> LETTERS TO SHAREHOLDERS  </h3>

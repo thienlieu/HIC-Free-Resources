@@ -20,7 +20,8 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <li><a href = "#EconomicHistoryBooks"> Economic History Books </a></li>
  <li><a href = "#Money"> Money </a></li>
  <li><a href = "#Documentaries_Films">Documentaries/Films</a></li>
- <li><a href="StocksValuationFramework">Stocks Valuation Framework </a></li>
+ <li><a href="#StocksValuationFramework">Stocks Valuation Framework </a></li>
+ <li><a href="#Podcasts"> Podcasts</a></li>
  
 </ul>
 
@@ -121,3 +122,8 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <li><a href="https://www.youtube.com/watch?v=2L1rViT6wgs"> Warren Buffett explains DCF</a></li>
   </ul>
   
+  <h3 id="Podcasts"> Podcasts </h3>
+  <h6> Available on Apple Podcasts: </h6>
+  <ul> 
+  <li><a href="https://podcasts.apple.com/ca/podcast/masters-in-business/id730188152">Bloomberg's Master in Business- hosted by Barry Ritholtz </a></li>
+  </ul>

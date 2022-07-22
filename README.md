@@ -38,6 +38,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
  
   <h6> Books: </h6>
  <ul>
+  <li> <a href="https://www.amazon.ca/100-Baggers-Stocks-100-1/dp/1621291650/ref=sr_1_1?crid=2ULU5F6BTE7LF&keywords=100+bagger&qid=1658516854&sprefix=100+bagge%2Caps%2C124&sr=8-1"> 100 Baggers: Stocks that Return 100-to-1 and How to Find Them- Christopher W Mayer </a></li>
   <li><a href = "https://www.amazon.ca/Dhandho-Investor-Low-Risk-Paperback-Investing/dp/B07RY75NGR/ref=sr_1_2?crid=JKPR8XVRHWDS&keywords=dhando+investor&qid=1658285179&sprefix=dhando+investo%2Caps%2C134&sr=8-2"> The Dhando Investor- Monish Pabrai</a></li>
   <li><a href = "https://www.amazon.ca/Intelligent-Investor-Definitive-Value-Investing/dp/0060555661/ref=sr_1_4?crid=16CE0TJBBU5MR&keywords=the+intelligent+investor&qid=1658285710&s=books&sprefix=the+intelli%2Cstripbooks%2C139&sr=1-4">The Intelligent Investor- Benjamin Graham</a></li>
  <li> <a href = "https://www.amazon.ca/Security-Analysis-Foreword-Warren-Buffett/dp/0071592539/ref=sr_1_1?crid=L28BRVIB7LBY&keywords=security+analysis&qid=1658512077&sprefix=security+analysi%2Caps%2C135&sr=8-1"> Security Analysis- Benjamin Graham </a></li>
@@ -59,15 +60,16 @@ This repo is organized in no chronological order. Feel free to explore any topic
 <h3 id="RiskManagement"> RISK MANAGEMENT </h3>
 <h6> Books</h6>
 <ul>
- <li><a href = "https://www.amazon.ca/Zurich-Axioms-Harriman-Definitive-generations/dp/0857198726/ref=sr_1_1?crid=1Q5TOE10PRRXD&keywords=the+zurich+axioms&qid=1657911610&sprefix=the+zurich+axiom%2Caps%2C114&sr=8-1">The Zurich Axioms- Max Gunter </a> </li>
+ <li><a href = "https://www.amazon.ca/Zurich-Axioms-Harriman-Definitive-generations/dp/0857198726/ref=sr_1_1?crid=1Q5TOE10PRRXD&keywords=the+zurich+axioms&qid=1657911610&sprefix=the+zurich+axiom%2Caps%2C114&sr=8-1">The Zurich Axioms- Max Gunther </a> </li>
 </ul>
 
 <h3 id = "MentalModels"> MENTAL MODELS/ NEW PARADIGMS </h3>
 <h6> Books: </h6>
 <ul>
- <li><a href ="https://www.amazon.ca/Poor-Charlies-Almanack-Expanded-Hardcover/dp/1578645018/ref=sr_1_1?crid=2VTK1TVR5TJ1W&keywords=Poor+Charlie%27s+Almanack&qid=1658285222&sprefix=poor+charlie%27s+almanack%2Caps%2C130&sr=8-1">Poor Charlie's Almanack - Peter D. Kaufman <a> </li>
- <li><a href ="https://www.amazon.ca/most-important-thing-Howard-Marks/dp/9353022797/ref=sr_1_1?crid=1S9ESARWQTB4K&keywords=the+most+important+thing&qid=1658287118&s=books&sprefix=the+most+imp%2Cstripbooks%2C133&sr=1-1">The most important thing- Howard Marks <a> </li>
- <li> <a href = "https://www.amazon.ca/The-Alchemy-of-Finance/dp/B071L9378L/ref=sr_1_1?crid=5RBAHF005C3V&keywords=alchemy+of+finance&qid=1658514781&s=books&sprefix=alchemy+of+finance%2Cstripbooks%2C174&sr=1-1"> The Alchemy of Finance- George Soros </li> </a>
+ <li><a href ="https://www.amazon.ca/Poor-Charlies-Almanack-Expanded-Hardcover/dp/1578645018/ref=sr_1_1?crid=2VTK1TVR5TJ1W&keywords=Poor+Charlie%27s+Almanack&qid=1658285222&sprefix=poor+charlie%27s+almanack%2Caps%2C130&sr=8-1">Poor Charlie's Almanack - Peter D. Kaufman </a> </li>
+ <li><a href ="https://www.amazon.ca/most-important-thing-Howard-Marks/dp/9353022797/ref=sr_1_1?crid=1S9ESARWQTB4K&keywords=the+most+important+thing&qid=1658287118&s=books&sprefix=the+most+imp%2Cstripbooks%2C133&sr=1-1">The most important thing- Howard Marks </a> </li>
+ <li> <a href = "https://www.amazon.ca/The-Alchemy-of-Finance/dp/B071L9378L/ref=sr_1_1?crid=5RBAHF005C3V&keywords=alchemy+of+finance&qid=1658514781&s=books&sprefix=alchemy+of+finance%2Cstripbooks%2C174&sr=1-1"> The Alchemy of Finance- George Soros </a> </li>
+ <li><a href="https://www.amazon.ca/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/ref=sr_1_1?crid=3APCQ14WZYUL3&keywords=almanack+of+naval+ravikant&qid=1658516985&sprefix=almanack+%2Caps%2C123&sr=8-1"> The Almanack of Naval Rakitant- Eric Jorgenson </a></li>
  </ul>
  <h6> Others: </h6>
  <ul>

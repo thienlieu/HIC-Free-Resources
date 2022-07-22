@@ -7,9 +7,9 @@ Investment is a broad topic that includes many subjects to study. This repo is d
 <h4> TABLE OF CONTENTS </h4>
 <ul>
  <li><a href = "#LetterstoShareholders"> Letters to Shareholders </a></li>
- <li><a href = "ValueInvesting"> Value Investing</a></li>
- <li><a href = "#Risk Management"> Letters to Shareholders </a></li>
- <li><a href = "CryptoResources"> Letters to Shareholders </a></li>
+ <li><a href = "#ValueInvesting"> Value Investing</a></li>
+ <li><a href = "#Risk Management"> Risk Management </a></li>
+ <li><a href = "#CryptoResources"> Crypto Resources </a></li>
 </ul>
 
 <h3 id = "LetterstoShareholders"> LETTERS TO SHAREHOLDERS  </h3>

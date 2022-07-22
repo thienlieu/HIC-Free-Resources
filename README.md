@@ -77,5 +77,6 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <ul>
   <li><a href = "https://www.amazon.ca/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=sr_1_1?crid=22O5L0JU90EZT&keywords=the+psychology+of+money&qid=1658512129&sprefix=the+psychology+of+money%2Caps%2C149&sr=8-1"> The Psychology of Money- Morgan House  </a></li>
   <li> <a href = "https://www.amazon.ca/Ascent-Money-Financial-History-World/dp/0143116177/ref=sr_1_1?crid=WJNPRDDX9BHO&keywords=the+ascent+of+money&qid=1658512176&sprefix=the+ascent+of+mone%2Caps%2C185&sr=8-1"> The Ascent of Money- Nial Ferguson </a> </li>
+   <li> <a href = "https://www.amazon.ca/Pragmatic-Capitalism-Every-Investor-Finance-ebook/dp/B0B4V1KHVD/ref=sr_1_1?crid=1HWA48OD8LCUO&keywords=pragmatic+capitalism&qid=1658512952&sprefix=pragmatic+capitalism%2Caps%2C207&sr=8-1"> Pragmatic Capitalism- Cullen Roche </a> </li> 
   </ul>
   

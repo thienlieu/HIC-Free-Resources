@@ -17,7 +17,7 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <li><a href = "#RiskManagement"> Risk Management </a></li>
  <li><a href = "#MentalModels"> Mental Models </a></li>
  <li><a href = "#CryptoResources"> Crypto Resources </a></li>
- <li><a href = "#EconomicHistoryBooks"> Economic History Books </a></li>
+ <li><a href = "#EconomicHistory/GeopoliticalBooks"> Economic History/ Geopolitical Books </a></li>
  <li><a href = "#Money"> Money </a></li>
  <li><a href = "#Documentaries_Films">Documentaries/Films</a></li>
  <li><a href="#StocksValuationFramework">Stocks Valuation Framework </a></li>
@@ -62,12 +62,16 @@ This repo is organized in no chronological order. Feel free to explore any topic
 <h3 id="RiskManagement"> RISK MANAGEMENT </h3>
 <h6> Books</h6>
 <ul>
+ <li><a href= "https://www.amazon.ca/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_4?crid=F59S4ZK3BS41&keywords=the+black+swan&qid=1658689138&sprefix=the+black+swa%2Caps%2C162&sr=8-4">The Black Swan- Nassim Nicholas Taleb</a></li>
  <li><a href = "https://www.amazon.ca/Zurich-Axioms-Harriman-Definitive-generations/dp/0857198726/ref=sr_1_1?crid=1Q5TOE10PRRXD&keywords=the+zurich+axioms&qid=1657911610&sprefix=the+zurich+axiom%2Caps%2C114&sr=8-1">The Zurich Axioms- Max Gunther </a> </li>
+ <li><a href="https://www.amazon.ca/Market-Wizards-Updated-Interviews-Traders/dp/1118273052/ref=sr_1_1?crid=9F9TJ4ST8HG&keywords=market+wizards&qid=1658688421&sprefix=market+wizard%2Caps%2C175&sr=8-1">Market Wizards: Interviews with Top Traders- Jack D. Schwager</a></li>
 </ul>
 
 <h3 id = "MentalModels"> MENTAL MODELS/ NEW PARADIGMS </h3>
 <h6> Books: </h6>
 <ul>
+<li><a href= "https://www.amazon.ca/Fooled-Randomness-Hidden-Chance-Markets/dp/0812975219/ref=sr_1_1?crid=34PGDMIJHRXXM&keywords=fooled+by+randomness&qid=1658689227&sprefix=fooled+by+randomnes%2Caps%2C122&sr=8-1"> Fooled By Randomness- Nassim Nicholas Taleb </a></li>
+ <li><a href="https://www.amazon.ca/New-Economics-Manifesto-Steve-Keen/dp/1509545298/ref=sr_1_1?crid=2BBZ70Q2AS901&keywords=the+new+economics+a+manifesto&qid=1658688539&sprefix=the+new+economics%2Caps%2C126&sr=8-1">The New Economics: A Manifesto- Steve Keen</a></li>
  <li><a href ="https://www.amazon.ca/Poor-Charlies-Almanack-Expanded-Hardcover/dp/1578645018/ref=sr_1_1?crid=2VTK1TVR5TJ1W&keywords=Poor+Charlie%27s+Almanack&qid=1658285222&sprefix=poor+charlie%27s+almanack%2Caps%2C130&sr=8-1">Poor Charlie's Almanack - Peter D. Kaufman </a> </li>
  <li><a href ="https://www.amazon.ca/most-important-thing-Howard-Marks/dp/9353022797/ref=sr_1_1?crid=1S9ESARWQTB4K&keywords=the+most+important+thing&qid=1658287118&s=books&sprefix=the+most+imp%2Cstripbooks%2C133&sr=1-1">The most important thing- Howard Marks </a> </li>
  <li> <a href = "https://www.amazon.ca/The-Alchemy-of-Finance/dp/B071L9378L/ref=sr_1_1?crid=5RBAHF005C3V&keywords=alchemy+of+finance&qid=1658514781&s=books&sprefix=alchemy+of+finance%2Cstripbooks%2C174&sr=1-1"> The Alchemy of Finance- George Soros </a> </li>
@@ -87,10 +91,11 @@ This repo is organized in no chronological order. Feel free to explore any topic
   <li><a href= "https://twitter.com/MishaDaVinci/status/1515673102566318082"> 50+ terms for Web 3 lingo- @MishaDaVinci on Twitter &#129525;</a></li>
  </ul>
   
-  <h3 id ="EconomicHistoryBooks"> Economic History Books </h3>
+  <h3 id ="EconomicHistory/GeopoliticalBooks"> Economic History/ Geopolitical Books </h3>
   <ul>
    <li><a href = "https://www.amazon.ca/Why-Nations-Fail-Origins-Prosperity/dp/0307719227/ref=sr_1_1?crid=1ZPLJKTH5MV1F&keywords=why+nations+fail&qid=1658512103&sprefix=why+nations+fail%2Caps%2C121&sr=8-1"> Why Nations Fail- Daron Acemoglu and James A. Robinson</a></li>
    <li><a href = "https://www.amazon.ca/Richest-Man-Babylon-Magic-Story/dp/1939438632/ref=sr_1_1?crid=1XDKP02J43PZF&keywords=the+richest+man+in+babylon&qid=1658512116&sprefix=the+richest+man+%2Caps%2C213&sr=8-1"> The Richest Man in Babylon- George S.Clason  </a></li>
+   <li><a href ="https://www.amazon.ca/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215/ref=sr_1_1?crid=4F7GUO36P0P9&keywords=geopolitical+alpha&qid=1658688610&sprefix=geopolitical+alpha%2Caps%2C118&sr=8-1"> Geopolitical Alpha: An Investment Framework for Predicting the Future- Marko Papic</a></li>
   </ul>
   
   <h3 id = "Money"> MONEY </h3>

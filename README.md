@@ -143,3 +143,5 @@ This repo is organized in no chronological order. Feel free to explore any topic
  <p> Frequency: <b> Weekly </b></p>
  <p> Looks into recent news topics and focuses on the impact that stories have on various markets. </p>
   </ul>
+  
+

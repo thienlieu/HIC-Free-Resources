@@ -2,6 +2,9 @@
 #today's price is worth the sum of all future dividend payments when discounted back to their present value. 
 #This valuation model is almost only useful for mature companies with stable growth rates (proven track records). 
 
+#please check our Google Drive if wish to learn further
+#https://drive.google.com/drive/folders/1JkS9CZIugZ0ww5VRakj7c_cL0BPLKERc?usp=sharing
+
 import yfinance as yf
 import pandas as pd
 import numpy as np

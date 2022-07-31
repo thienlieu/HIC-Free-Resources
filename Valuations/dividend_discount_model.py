@@ -1,3 +1,7 @@
+#Dividend Discount Model (DDM) is method to predict the price of company's stock based on theory that
+#today's price is worth the sum of all future dividend payments when discounted back to their present value. 
+#This valuation model is almost only useful for mature companies with stable growth rates (proven track records). 
+
 import yfinance as yf
 import pandas as pd
 import numpy as np

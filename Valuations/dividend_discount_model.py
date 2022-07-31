@@ -47,7 +47,7 @@ expectedFutureDividend = round(lastDividend * (1 + medianGrowth), 2)
 beta = ticker.info['beta']
 print(beta)
 
-#assumptions
+#assumptions (redundant)
 riskFreeRate = 0.03
 marketReturn = 0.11
 marketRiskPremium = marketReturn - riskFreeRate

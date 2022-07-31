@@ -5,6 +5,8 @@
 #please check our Google Drive if wish to learn further
 #https://drive.google.com/drive/folders/1JkS9CZIugZ0ww5VRakj7c_cL0BPLKERc?usp=sharing
 
+#please feel free to copy & run the code below in your terminal (PyCharm recommended) for your learning & projects. 
+
 import yfinance as yf
 import pandas as pd
 import numpy as np
